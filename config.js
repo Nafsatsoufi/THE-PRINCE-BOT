@@ -20,7 +20,7 @@ global.owner = [
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['254104567966'] 
+global.mods = ['254758732775'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -114,7 +114,7 @@ global.princegpt = [gpt1, gpt2, gpt3, gpt4, gpt5, gpt6]
 
 
 // Moderator 
-global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
+global.developer = 'https://wa.me/message/USWDDH34M2TWH1' //contact
 //💌------------------------------------------💌
 
 
@@ -125,7 +125,7 @@ global.princebot = '🛡️MAK-𝘉𝘖𝘛-𝘔𝘋🛡️'
 global.packname = 'MALDY💚' 
 global.author = 'MALDY💙' 
 global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
+global.princegp = 'https://chat.whatsapp.com/IH6gdTmfecK7roIp9Cm18E'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
 global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
 global.princeyt = 'https://youtube.com/'
